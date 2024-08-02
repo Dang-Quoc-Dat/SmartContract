@@ -1,0 +1,2 @@
+# SmartContract
+Default smart contract
